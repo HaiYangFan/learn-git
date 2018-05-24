@@ -1,2 +1,1 @@
-hello,git
-learn pull from github
+Creating a new branch is quick
